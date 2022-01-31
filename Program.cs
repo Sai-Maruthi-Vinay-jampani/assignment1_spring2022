@@ -5,7 +5,7 @@ WRITE YOUR CODE IN THE RESPECTIVE FUNCTION BLOCK
 
 */
 /*
-**************************self reflection and time and recommendation******************************
+**************************self reflection and time and recommendation*****************************
 it took me 6 hours to complete the entire coding for this.
 at first i have not used the function , But by the end of this assignment i got familiarized  with the
 usage of the functions.
